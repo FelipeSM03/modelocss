@@ -1,0 +1,18 @@
+.cabecalho{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: var(--espacamento);
+    background: var(--cor-orincipal);
+    color:rgba(22, 115, 165, 0.724);
+
+}
+
+.menu{
+    display:flex;
+    gap: 10px,
+}
+
+.menu a{
+    color:rgb(112, 182, 184)
+}
